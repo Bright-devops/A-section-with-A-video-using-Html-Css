@@ -1,0 +1,57 @@
+
+.video-oW19cqIy {
+    margin-top: 48px;
+    max-width: 100%;
+  }
+  
+  video {
+    object-fit: contain;
+  }
+  
+  .videoContainer-oW19cqIy {
+    display: block;
+    max-width: 1280px;
+    min-height: 50vh;
+    margin-top: 2rem;
+    
+  }
+
+
+  .video-bg{
+    min-height: 11vh;
+    padding: 3rem;
+    background-color: #000;
+  }
+
+  
+  .heading{
+    color: #fff;
+    font-size: 56px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  
+  .paragraph{
+    display: absolute;
+    top: 0;
+    color: #F8B438;
+    font-size: 25px;
+    line-height: 40px;
+    text-align: center;
+  }
+
+
+  desc{
+    position: absolute;
+    top: 0;
+    margin-top: 3rem;
+  }
+  .desc h1{
+    font-size: 56px;
+    line-height: 56px;
+    color: #fff;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+  }
